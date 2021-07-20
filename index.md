@@ -1,6 +1,6 @@
 ## Carne molida
 <details>
-  <summary>Click para expandir!</summary>
+  <summary> Toca para expandir! </summary>
   
   ### Ingredientes
   ### Procedimiento
@@ -9,7 +9,7 @@
 
 ## Ensalada sencilla
 <details>
-  <summary>Click para expandir!</summary>
+  <summary> Toca para expandir! </summary>
   
   ### Ingredientes
     
@@ -43,7 +43,7 @@
 
 ## Coleslaw
 <details>
-  <summary> Click para expandir!</summary>
+  <summary> Toca para expandir! </summary>
   
   ### Ingredientes
   ### Procedimiento
