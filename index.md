@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Carne molida
+<details>
+  <summary>Click para expandir!</summary>
+  
+  ### Ingredientes
+  ### Procedimiento
+  ### Notas
+</details>
 
-You can use the [editor on GitHub](https://github.com/Georges47/food-recipes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Ensalada sencilla
+<details>
+  <summary>Click para expandir!</summary>
+  
+  ### Ingredientes
+    
+  - Lechuga
+  - Zanahoria
+  - Tomate
+  - Aceite de oliva
+  - Limón
+  - Condimentos
+    - Sal
+    - Pimienta
+  - Para limpiar la lechuga
+    - Vinagre
+    - Bicarbonato de sodio
+  
+  ### Procedimiento
+  
+  1. Rompe la lechuga con tus manos en bite-sized pieces
+  2. Coloca toda la lechuga en un bowl y agrega un chorro de vinagre, una cucharadita de bicarbonato de sodio y suficiente agua para que toda esté cubierta. Dejala un ratito remojando ahí para limpiarla
+  3. Pela y raya la zanahoria
+  4. Corta el tomate en pedazos del tamaño de tu preferencia 
+  5. Cuela y seca toda la lechuga, una vez que esté seca agregala en un bowl (puedes lavar y secar el que usaste para limpiar la lechuga) con la zanahoria y el tomate
+  6. Agrega sal, pimienta, un chorro del aceite y un chorro de limón. Mezcla todo y listo
+  
+  ### Notas
+  
+  - Hay mucho espacio para probar aquí. Podrías incluso hacerla sin tomate y para mi sigue quedando chevere, también podrías agregarle más cosas como aguacate, almendras fileteadas, anchoas picadas, etc.
+  - Esta receta no tiene cantidad ya que dependen mucho de ti, pero te aconsejo que la zanahoria y la lechuga estén en cantidades similares. Igual tampoco hay drama si no es así, como dije antes hay mucho espacio para probar y lo importantes es que te guste el resultado. 
+  
+</details>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Coleslaw
+<details>
+  <summary> Click para expandir!</summary>
+  
+  ### Ingredientes
+  ### Procedimiento
+  ### Notas
+</details>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Georges47/food-recipes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
