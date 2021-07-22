@@ -3,7 +3,33 @@
   <summary> Toca para expandir! </summary>
   
   ### Ingredientes
+  
+  - 1/2 kilo de carne molida
+  - 1/2 cebolla
+  - 2 o 3 dientes de ajo
+  - Puré de tomate
+  - Limón
+  - Condimentos
+    - Sal
+    - Pimienta
+    - Garam masala
+    - Comino
+    - Cúrcuma
+    - Pimentón dulce
+    - Jengibre en polvo
+    - Canela
+  
   ### Procedimiento
+  
+  - Corta en cuadritos pequeños la cebolla y el ajo
+  - Pon a calentar un sartén con un poco de aceite 
+  - Echale al sartén los vegetales y revuelve un poco. Agregale sal, pimienta, cúrcuma, jengibre en polvo, un poquitito (una pizca porque la canela puede opacar los demás sabores si se le agrega mucho) de canela y revuelve 
+  - Sofríe los vegetales por unos minutos, luego agrega unas cuantas cucharadas de puré de tomate y revuelve. Trata de no pasarte con el puré de tomate, la idea es que se forme como una pasta. Yo generalmente uso 3 o 4, en parte depende de la cantidad de vegetales
+  - Luego agrega la carne y revuelve
+  - Agrega los condimentos para la carne: sal, pimienta, garam masala, comino, pimentón dulce y revuelve. Yo acá agrego un par más de cucharadas de puré de tomate
+  - Deja cocinar todo y revuelve de vez en cuando hasta que la carne esté lista
+  - Esta parte es opcional. Una vez que esté lista la carne quita el sartén del calor y agregale un poco de limón
+  
   ### Notas
 </details>
 
